@@ -1,6 +1,7 @@
 # MastersProject
 Masters Project Codebase
-Creation of symbolic regression implementation, using genetic programming, to create blood glucose prediction models for type 1 diabetics.
-Involves all pre-processing scripts used within this project.
+Creation of Symbolic Regression implementation, using Genetic Programming, to create blood glucose prediction models for type 1 diabetics.
+Also includes all pre-processing scripts used within this project.
 
-Requires NumPy and Panada libraries within Python.
+Requires NumPy (https://numpy.org/) and Pandas (https://pandas.pydata.org/) libraries within Python.
+
